@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "NEP Viewer",
+        "description": "Mit einem NEP-Viewer-Konto verbinden.",
+        "data": {
+          "email": "E-Mail",
+          "password": "Passwort",
+          "sn": "Seriennummer"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Ungültige Anmeldedaten.",
+      "cannot_connect": "Verbindung zum NEP Viewer fehlgeschlagen.",
+      "unknown": "Unerwarteter Fehler."
+    },
+    "abort": {
+      "already_configured": "Dieses Konto wurde bereits eingerichtet."
+    }
+  }
+}
