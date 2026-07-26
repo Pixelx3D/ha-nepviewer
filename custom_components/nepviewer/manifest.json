@@ -1,7 +1,7 @@
 {
   "domain": "nepviewer",
   "name": "NEP Viewer",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "documentation": "https://github.com/Pixelx3D/ha-nepviewer",
   "issue_tracker": "https://github.com/Pixelx3D/ha-nepviewer/issues",
   "codeowners": [
